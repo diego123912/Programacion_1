@@ -1,0 +1,29 @@
+{
+  "vehicles": [
+    {
+      "type": "Car",
+      "code": 1,
+      "description": "Automóvil familiar",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "color": "Azul",
+      "year": 2022
+    },
+    {
+      "type": "Motorcycle",
+      "code": 2,
+      "description": "Moto deportiva",
+      "brand": "Yamaha",
+      "model": "R1",
+      "color": "Rojo",
+      "engineSize": 1000
+    },
+    {
+      "type": "ElectricSkateboard",
+      "code": 3,
+      "description": "Patineta eléctrica",
+      "brand": "Xiaomi",
+      "color": "Negro"
+    }
+  ]
+}
